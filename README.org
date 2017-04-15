@@ -1,0 +1,16 @@
+#+TITLE: README
+#+DATE: <2017-04-14 Fri>
+#+AUTHOR: Hao Yuan
+#+EMAIL: haoyuan@0587372674.wireless.umich.net
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+CREATOR: Emacs 25.1.1 (Org mode 8.2.10)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+
+[[https://en.wikipedia.org/wiki/Kendall_tau_distance][Kendall tau distance]]
