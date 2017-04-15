@@ -8,3 +8,10 @@ def K(a,b):
                    or (a[i] > a[j] and b[i] < b[j])
                    for i in range(n)
                    for j in range(i+1, n)])
+
+def Kpp(a,b):
+    n = len(a)
+    return sum([(j-i)/(j+i)*((a[i] < a[j] and b[i] > b[j])
+                   or (a[i] > a[j] and b[i] < b[j]))
+                   for i in range(n)
+                   for j in range(i+1, n)])
